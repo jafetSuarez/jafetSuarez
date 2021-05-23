@@ -27,9 +27,9 @@
     <li>Jinja 2</li>
     <li>CSS</li>
     <li>Bootstrap 4</li>
-    <li>JavaScript</li>
     <li>Google Maps JavaScript API</li>
     <li>React Hooks</li>
+    <li>Material-UI</li>
   </ul>
 </details>
 
