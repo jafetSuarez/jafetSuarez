@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Full Stack Web Developer on my academic proyects
+- 🔭 I’m currently working as a Full Stack Web Developer on my academic projects
 - 📫 How to reach me: [Telegram](https://t.me/jafetSuarez)
 - 😄 Pronouns (3rd person singular male): he | him | his | himself 
 - 🤿 Willing to learn new technologies 
