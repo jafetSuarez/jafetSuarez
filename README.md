@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Full Stack Web Developer on my academic projects
+- 🔭 I’m currently working as a Full Stack Developer
 - 📫 How to reach me: [Telegram](https://t.me/jafetSuarez)
 - 😄 Pronouns (3rd person singular male): he | him | his | himself 
 - 🤿 Willing to learn new technologies 
@@ -48,5 +48,7 @@
     <li>Waitress</li>
     <li>Docker</li>
     <li>Docker Compose</li>
+    <li>Kubernetes</li>
+    <li>Helm</li>
   </ul>
 </details>
